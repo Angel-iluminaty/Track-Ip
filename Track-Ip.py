@@ -185,7 +185,7 @@ options = [
     },
     {
         'num': 2,
-        'text': 'Muestra tu IPP',
+        'text': 'Muestra tu IP',
         'func': showIP
 
     },
