@@ -1,7 +1,7 @@
 ### 🔮TRACK -IP🔮
 
 ###### ¿TRACK-IP?
-###### Herramienta útil para rastrear la ubicación o el número de teléfono móvil, por lo que esta herramienta puede llamarse osint o también recopilación de información..
+###### Herramienta útil para rastrear la ubicación o el número de teléfono móvil, por lo que esta herramienta puede llamarse osint o también recopilación de información.
 
 ### 🔮 INSTALACION: 🔮
 
